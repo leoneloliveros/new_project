@@ -1,0 +1,6 @@
+[submodule "mkr"]
+	path = mkr
+	url = https://github.com/leoneloliveros/mkr.git
+[submodule "my_sinatra"]
+	path = my_sinatra
+	url = https://github.com/leoneloliveros/my_sinatra.git
